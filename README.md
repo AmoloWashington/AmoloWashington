@@ -4,7 +4,7 @@ Welcome to my personal portfolio! This is a showcase of my skills, projects, and
 
 ## 🚀 About Me  
 - **Name**: Washingtone Odhiambo Amolo  
-- **Role**: Fourth-year undergraduate student in Information Technology  
+- **Role**: Data Scientist 
 - **Specialization**: Data Science, Machine Learning, Data Engineering  
 - **Passion**: Thriving in challenging environments and leveraging technology to solve real-world problems.  
 - **Skills**: Python, TensorFlow, Scikit-learn, Pandas, Matplotlib, BeautifulSoup, Apache  
